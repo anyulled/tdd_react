@@ -1,0 +1,21 @@
+{
+  "name": "tdd_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch --require setup.js *.spec.js",
+    "start": "quik"
+  },
+  "author": "anyul Rivas",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "latest",
+    "enzyme": "latest",
+    "sinon": "latest"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
