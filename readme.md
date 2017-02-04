@@ -1,5 +1,5 @@
 # Test Driven Development with ReactJs
-
+[![Dependency Status](https://gemnasium.com/badges/github.com/anyulled/tdd_react.svg)](https://gemnasium.com/github.com/anyulled/tdd_react)
 ## Prerequisites
 
 - NodeJs
