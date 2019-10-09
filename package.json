@@ -16,7 +16,7 @@
     "sinon": "latest"
   },
   "dependencies": {
-    "react": "latest",
+    "react": "^16.10.2",
     "react-dom": "latest"
   }
 }
