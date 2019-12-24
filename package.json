@@ -13,7 +13,7 @@
   "devDependencies": {
     "chai": "latest",
     "enzyme": "latest",
-    "sinon": "latest"
+    "sinon": "^8.0.1"
   },
   "dependencies": {
     "react": "latest",
