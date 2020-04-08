@@ -11,12 +11,12 @@
   "author": "anyul Rivas",
   "license": "ISC",
   "devDependencies": {
-    "chai": "latest",
-    "enzyme": "latest",
     "sinon": "^9.0.1"
+    "chai": "^4.2.0",
+    "enzyme": "^3.11.0",
   },
   "dependencies": {
-    "react": "latest",
+    "react": "^16.13.1",
     "react-dom": "latest"
   }
 }
