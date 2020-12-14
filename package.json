@@ -11,7 +11,7 @@
   "author": "anyul Rivas",
   "license": "ISC",
   "devDependencies": {
-    "sinon": "9.2.1",
+    "sinon": "9.2.2",
     "chai": "4.2.0",
     "enzyme": "3.11.0"
   },
