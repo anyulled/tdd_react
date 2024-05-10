@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "sinon": "17.0.1",
-    "chai": "5.0.0",
+    "chai": "5.1.1",
     "enzyme": "3.11.0"
   },
   "dependencies": {
